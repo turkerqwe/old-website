@@ -20,15 +20,8 @@ function MyApp({ Component, pageProps }) {
         <div className="max-w-screen-lg p-5 w-full md:w-10/12 lg:w-8/12 mx-auto transition-all duration-300">
           <div className="md:flex w-full items-center justify-between">
             <div>
-              <a href="https://clqu.live/" target="_blank" rel="noreferrer" className="hover:text-red-500 transition-all duration-200">clqu tarafından geliştirilmiştir ❤</a>
+              <a href="https://github.com/turkerpw/turker.vercel.app" target="_blank" rel="noreferrer" className="hover:text-red-500 transition-all duration-200">Açık Kaynak ❤</a>
             </div>
-            
-            <div>
-              <a href="https://netkreatif.com/" target="_blank" rel="noreferrer" className="hover:text-red-500 transition-all duration-200">❤ Netkreatif tarafından barındırılmaktadır</a>
-            </div>
-            
-
-
           </div>
         </div>
       </div>
