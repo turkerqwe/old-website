@@ -16,7 +16,7 @@ const Header = () => {
     return <>
         <div className="w-full border-b-2 border-neutral-800/20 pb-2">
             <div className="flex flex-col md:flex-row w-full items-center md:justify-between">
-                <p className="font-semibold font-Poppins text-xl">Türker#0001<span class="ml-2 bg-black/20 px-2 py-1 font-normal rounded-md text-sm">v1.0.0</span></p>
+                <p className="font-semibold font-Poppins text-xl">Türker<span class="ml-2 bg-black/20 px-2 py-1 font-normal rounded-md text-sm">BETA</span></p>
                 <div className="flex items-center space-x-2">
                     {items.map(item => (
                         <a key={item.link} href={item.link} target="_blank" rel="noreferrer" className="flex items-center justify-center hover:bg-neutral-700/20 rounded-xl transition-all duration-150 p-2 px-3">
@@ -37,7 +37,6 @@ const Header = () => {
         </div>
 
   <section></section>
-  <div class="cursor"></div>
     </>
 }
 
