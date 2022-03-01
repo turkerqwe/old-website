@@ -32,7 +32,7 @@ export default function Home() {
                 <div className="flex items-center">
            
                 <p className="flex items-center text-blue text-4xl font-semibold">
-                  Türker#0001
+                  Türker
                 </p>
               
              
@@ -49,7 +49,7 @@ export default function Home() {
               
             </div>
             
-            <span style={{ zIndex: '-1' }} className="text-purple-500/5 absolute top-5 left-5 text-xl sm:text-2xl md:text-4xl lg:text-6xl font-semibold">Türker#0001</span>
+            <span style={{ zIndex: '-1' }} className="text-purple-500/5 absolute top-5 left-5 text-xl sm:text-2xl md:text-4xl lg:text-6xl font-semibold">Türker</span>
           </div>
           
           ) : (
