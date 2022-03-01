@@ -3,17 +3,17 @@ export default async (req, res) => {
     {
       id: 1,
       image: "https://turker.is-terrible.com/5oU_oTDzQ.png",
-      name: "Türker Web",
+      name: "turker.vercel.app",
       description:
-        "Şuanda bulunduğunuz Türker'in havalı sitesi!",
-      link: "#",
+        "En havalı siteye hoşgeldin",
+      link: "https://turker.vercel.app/",
       language: "React",
       languageIcon: "./assets/techs/react.svg",
     },
     {
       id: 2,
       image: "https://turker.is-terrible.com/5oV0CiNoJ.png",
-      name: "Kuibot",
+      name: "kui.bot",
       description:
         "Yönetim paneli bulunan havalı Kuibot ama şuanlık yapım aşamasında...",
       link: "#",
@@ -23,9 +23,9 @@ export default async (req, res) => {
     {
       id: 3,
       image: "https://i.imgur.com/bTisaif.png",
-      name: "Campfire",
+      name: "discord.gg/campfire",
       description:
-        "Discord'un en güzel topluluk sunucusu... (Katılmak için tıkla)",
+        "Discord'un en güzel topluluk sunucusu...",
       link: "https://discord.gg/campfire",
       language: "React",
       languageIcon: "./assets/techs/react.svg",
