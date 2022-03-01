@@ -6,7 +6,7 @@ const Header = dynamic(() => import('../components/Header'))
 function MyApp({ Component, pageProps }) {
   return (<>
     <Head>
-        <title>Türker#0001</title>
+        <title>Türker</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
         <div className="max-w-screen-lg p-5 w-full md:w-10/12 lg:w-8/12 mx-auto transition-all duration-300">
           <div className="md:flex w-full items-center justify-between">
             <div>
-              <a href="https://github.com/turkerpw/turker.vercel.app" target="_blank" rel="noreferrer" className="hover:text-red-500 transition-all duration-200">Açık Kaynak ❤</a>
+              <a href="https://github.com/turkerpw/turker.vercel.app" target="_blank" rel="noreferrer" className="hover:text-red-500 transition-all duration-200">Bu sitenin açık kaynaklı hali ❤</a>
             </div>
           </div>
         </div>
