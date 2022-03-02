@@ -88,15 +88,15 @@ export default function Home() {
                   <p className="text-md text-red-500">{_.full_name}</p>
 
                   <div className="flex justify-between w-full mt-2">
-                    <p className="font-medium">Yıldız Sayısı</p>
+                    <p className="font-medium">Yıldız:</p>
                     <p>{_.stargazers_count}</p>
                   </div>
                   <div className="flex justify-between w-full">
-                    <p className="font-medium">Fork Sayısı</p>
+                    <p className="font-medium">Fork:</p>
                     <p>{_.forks}</p>
                   </div>
                   <div className="flex justify-between w-full">
-                    <p className="font-medium">Kullanılan Dil</p>
+                    <p className="font-medium">Dil:</p>
                     <p>{_.language}</p>
                   </div>
                 </a>
