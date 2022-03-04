@@ -5,7 +5,7 @@ export default async (req, res) => {
         headers: {}
     })).json();
 
-    let __ = await (await fetch('https://api.github.com/users/turkerpw/repos', {
+    let __ = await (await fetch('https://api.github.com/users/LenuxCode/repos', {
         headers: {}
     })).json();
     try {
