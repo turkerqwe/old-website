@@ -85,7 +85,7 @@ export default function Home() {
             repositories ? (
               repositories.sort((a, b) => b.stargazers_count - a.stargazers_count).map((_, __) => (
                 <a key={__} href={`https://github.com/${_.full_name}`} target="_blank" rel="noreferrer" className="bg-neutral-800/10 p-4 hover:bg-neutral-800/20 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full">
-                  <p className="text-md text-red-500">{_.full_name}</p>
+                  <p className="text-md text-blue-500">{_.full_name}</p>
 
                   <div className="flex justify-between w-full mt-2">
                     <p className="font-medium">Yıldız:</p>
