@@ -1,6 +1,4 @@
-# turker.vercel.app
-🌟 Kendi sitemin açık kaynaklı hali.
+turkerpw.ml
 
-Demo: https://turker.vercel.app
 
-Kurulumda destek verilmemektedir.
+Açık kaynak hali :)
