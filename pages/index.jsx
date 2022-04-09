@@ -8,7 +8,7 @@ const items = [
 
 export default function Home() {
   const { data: _profile } = swr(
-    "https://api.vcodes.xyz/v1/find/user?userId=852798440680456212&featureMode=true"
+    "https://api.lanyard.rest/v1/users/852798440680456212"
   );
   const profile = _profile ? _profile.data : null;
 
