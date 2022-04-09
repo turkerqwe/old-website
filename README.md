@@ -24,3 +24,6 @@ Beğendiysen ⭐ atarak beni mutlu edebilirsin.
 İstediğiniz gibi kullanabilirsiniz.
 
 Orijinal Proje: https://github.com/clqu/clqu.live
+
+
+#NOT: Proje en son güncellenecek hale getirilmiştir. Daha fazla güncelleme gelmeyecektir.
