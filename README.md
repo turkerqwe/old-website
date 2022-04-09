@@ -2,7 +2,7 @@ Selam! Eski websitemi açık kaynak kodlu hali ile paylaşıyorum.
 
 Nasıl kurulacağı hakkında bir fikrin yok ise burası sana yardımcı olabilir.
 
-#Nasıl Kurulur?
+# Nasıl Kurulur?
 
 1- Projeyi bilgisayarına indir.
 2- Kendine göre düzenle.
@@ -11,7 +11,7 @@ Nasıl kurulacağı hakkında bir fikrin yok ise burası sana yardımcı olabili
 5- npm run dev yaz.
 6- https://localhost:3000 gir.
 
-#Vercel'e yükleme
+# Vercel'e yükleme
 
 1- https://vercel.app kayıt ol.
 2- Projeyi Github'a yükle.
@@ -26,4 +26,4 @@ Beğendiysen ⭐ atarak beni mutlu edebilirsin.
 Orijinal Proje: https://github.com/clqu/clqu.live
 
 
-#NOT: Proje en son güncellenecek hale getirilmiştir. Daha fazla güncelleme gelmeyecektir.
+# NOT: Proje en son güncellenecek hale getirilmiştir. Daha fazla güncelleme gelmeyecektir.
