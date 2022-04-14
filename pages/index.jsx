@@ -8,7 +8,7 @@ const items = [
 
 export default function Home() {
   const { data: _profile } = swr(
-    "https://api.lanyard.rest/v1/users/852798440680456212"
+    "https://linkcord.js.org/api/v3/user/852798440680456212"
   );
   const profile = _profile ? _profile.data : null;
 
